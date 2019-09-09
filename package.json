@@ -1,0 +1,26 @@
+{
+  "name": "platform-api-client-javascript",
+  "version": "1.0.0",
+  "description": "Official Javascript client for Brand Embassy public API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrandEmbassy/platform-api-client-javascript.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrandEmbassy/platform-api-client-javascript/issues"
+  },
+  "homepage": "https://github.com/BrandEmbassy/platform-api-client-javascript#readme",
+  "dependencies": {
+    "node-fetch": "latest"
+  },
+  "devDependencies": {
+    "@types/node-fetch": "^2.5.0",
+    "typescript": "^3.6.2"
+  }
+}
